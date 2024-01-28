@@ -1,5 +1,5 @@
-# Personal-Portfolio-2-starter-pack
-  * https://youtubebinjanportfolio.pages.dev
+# Trilok Portfolio 
+  * https://trilokportfolio.pages.dev
 
 ## Fonts link
   * https://stijndv.com/fonts/Eudoxus-Sans.css
